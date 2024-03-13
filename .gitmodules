@@ -1,0 +1,11 @@
+[submodule "buildchain"]
+	path = buildchain
+	url = https://github.com/DemiMarie/buildchain.git
+	branch = qubes
+[submodule "ecflash"]
+	path = ecflash
+	url = https://github.com/system76/ecflash.git
+	branch = stable
+[submodule "ec"]
+	path = ec
+	url = https://github.com/system76/ec.git
