@@ -30,5 +30,5 @@ system76_ectool = { version = "0.3.8", features = ["std"], path = "ec/tool", def
 [profile.release]
 lto = true
 
-[patch.crates-io]
-winapi = { path = "empty", package = "empty" }
+#[patch.crates-io]
+#winapi = { path = "empty", package = "empty" }
