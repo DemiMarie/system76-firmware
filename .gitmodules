@@ -1,7 +1,6 @@
 [submodule "buildchain"]
 	path = buildchain
-	url = https://github.com/DemiMarie/buildchain.git
-	branch = qubes
+	url = https://github.com/system76/buildchain.git
 [submodule "ecflash"]
 	path = ecflash
 	url = https://github.com/system76/ecflash.git
